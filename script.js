@@ -84,3 +84,8 @@
     }, { rootMargin: "-35% 0px -55% 0px" });
 
     sections.forEach(section => sectionObserver.observe(section));
+
+
+ 
+
+    
